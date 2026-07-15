@@ -2,6 +2,10 @@
 
 LocalQuest is a React application for finding and completing small local challenges across Georgia.
 
+## Live site
+
+[Open LocalQuest](https://local-quest-neon.vercel.app/)
+
 ## Main features
 
 - quest list with search, region, category and difficulty filters
